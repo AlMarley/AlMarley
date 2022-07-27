@@ -17,7 +17,8 @@
  
  <br>
  
-  ### Contate-me
+ <!-- ### 📍 Eu também estou por aqui -->
+  ### I meet here
  
 <div> 
   <a href="https://instagram.com/aldenormry" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
